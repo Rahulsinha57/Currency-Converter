@@ -26,20 +26,16 @@ JavaScript (Vanilla)
 
 Fawazahmed Currency API
 
-📸 Preview
-
-👉 (Add a screenshot or gif of your app here)
-
 ⚡ How to Use
 
-Clone this repo
+1.Clone this repo
 
 git clone https://github.com/your-username/currency-converter.git
 
 
-Open index.html in your browser
+2.Open index.html in your browser
 
-Select your currencies & get instant conversion 🎉
+3.Select your currencies & get instant conversion 🎉
 
 📡 API Reference
 
@@ -49,11 +45,11 @@ https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{fro
 
 💡 Future Improvements
 
- Add historical exchange rates
+> Add historical exchange rates
 
- Dark mode toggle 🌙
+> Dark mode toggle 🌙
 
- Graphs for currency trends 📊
+> Graphs for currency trends 📊
 
 🤝 Contributing
 
